@@ -37,7 +37,7 @@ Git • GitHub • DevOps (Basics)
 
 ### 🔹 **Medicine Recommendation System (Machine Learning)**
 An ML system that predicts diseases and recommends medicine, workouts, diet plans, and precautions.  
-👉 Repo: *Add link here*
+👉 Repo: **(https://github.com/AbhishekRL/Medicine-Recommendation-System)**
 
 ---
 
