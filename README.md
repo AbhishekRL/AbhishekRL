@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🎓 MCA student passionate about **Web Development & Machine Learning**
 - 💻 Experienced in building full-stack & ML-based applications
-- 🌱 Currently learning **React, .NET, and ML Algorithms**
+- 🌱 Currently learning **React, and ML Algorithms**
 - 🎯 Goal: Become a Full-Stack / ML Engineer
 - ⚡ Love creating projects that solve real-world problems
 
@@ -26,10 +26,10 @@ Python • Java • C++ • SQL
 HTML5 • CSS3 • JavaScript • React.js
 
 ### **Frameworks**
-Bootstrap • .NET
+Bootstrap 
 
 ### **Tools / Platforms**
-Git • GitHub • DevOps (Basics)
+Git • GitHub 
 
 ---
 
@@ -41,9 +41,9 @@ An ML system that predicts diseases and recommends medicine, workouts, diet plan
 
 ---
 
-### 🔹 **E-Commerce Website (React.js)**
-A responsive shopping platform with categories, filters, sorting, and cart features.  
-👉 Repo: *Add link here*
+### 🔹 **Kannada Speech Sound Disorder Project**
+A project focusing on analyzing Kannada speech sound patterns and identifying sound disorders.  
+👉 Repo: **https://github.com/AbhishekRL/Kannada-speech-sound-disorder**
 
 ---
 
@@ -55,18 +55,21 @@ A web app for event creation, registration, and user management with a modern UI
 
 ---
 
-### 🔹 **Kannada Speech Sound Disorder Project**
-A project focusing on analyzing Kannada speech sound patterns and identifying sound disorders.  
-👉 Repo: **https://github.com/AbhishekRL/Kannada-speech-sound-disorder**
+### 🔹 **E-Commerce Website (React.js)**
+A responsive shopping platform with categories, filters, sorting, and cart features.  
+👉 Repo: *https://github.com/AbhishekRL/ecommerce*
 
 ---
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRL&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRL&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRL&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRL&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
