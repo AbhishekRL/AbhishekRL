@@ -57,7 +57,7 @@ A web app for event creation, registration, and user management with a modern UI
 
 ### 🔹 **Kannada Speech Sound Disorder Project**
 A project focusing on analyzing Kannada speech sound patterns and identifying sound disorders.  
-👉 Repo: *Add link here*
+👉 Repo: **https://github.com/AbhishekRL/Kannada-speech-sound-disorder**
 
 ---
 
