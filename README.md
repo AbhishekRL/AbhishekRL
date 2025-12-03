@@ -41,7 +41,7 @@ An ML system that predicts diseases and recommends medicine, workouts, diet plan
 
 ---
 
-### 🔹 **Kannada Speech Sound Disorder Project**
+### 🔹 **Kannada Speech Sound Disorder Project (LSTM)**
 A project focusing on analyzing Kannada speech sound patterns and identifying sound disorders.  
 👉 Repo: **https://github.com/AbhishekRL/Kannada-speech-sound-disorder**
 
